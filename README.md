@@ -1,2 +1,2 @@
 # MVC_EXAMPLE
-an MVC example i found on youtube in PHP
+an MVC Template for any use
